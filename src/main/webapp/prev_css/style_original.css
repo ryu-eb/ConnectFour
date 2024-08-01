@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#tbl {
+	display: flex;
+	justify-content: center;
+	margin: 10px;
+}
+
+#msg{
+	display: flex;
+	justify-content: center;
+	margin: 10px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+#init{
+	display: flex;
+	justify-content: center;
+}
